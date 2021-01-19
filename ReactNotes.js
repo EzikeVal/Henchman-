@@ -1,0 +1,25 @@
+/// CREATE - REACT - APP /////
+
+
+/// AIDS CREATING REACT APP WITH ALL THE AVAILABLE PACKAGES INSTALLED WITHIN THE REACT APP //
+
+
+// create liniting debugging etc ///
+
+
+/// INSTALL REACT APP ///
+
+
+/*
+FIRST INSTALL REACT APP TO GET ALL ITS FEATURES 
+
+npm install -g create-react-app
+  
+NEXT 
+
+
+YOU CREATE YOUR REACT APPLICATION WITH ITS NAME USING THE FOLLOWING COMMANDS
+
+create-react-app henchmen all small letters
+
+*/
